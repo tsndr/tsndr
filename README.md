@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Software Engineer from Germany, mainly focused on web technologies. Recently I've been really interested in serverless solutions, especially Cloudflare Workers, but I also tinker around with Hardware like ESP32, RaspberryPi, 3D Printing, wearable technology, and much more.
+
 <!--
 **tsndr/tsndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
